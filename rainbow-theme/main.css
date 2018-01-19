@@ -1,0 +1,21 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+body {
+	background-color: #FFEC97;
+	color: white;
+	font-family: Montserrat;
+	font-size: 30px;
+}
+header {
+	background-color: #2B3D54;
+	border-bottom-color: red 5px solid;
+	text-align: center;
+	padding: 10px;
+}
+
+section {
+	margin-top: 20px; 
+	padding: 10px; 
+}
